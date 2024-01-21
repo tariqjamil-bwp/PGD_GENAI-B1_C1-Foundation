@@ -1,0 +1,41 @@
+#### Course 1: Introduction to Generative AI (16 classes)
+
+**Class 1-2: Introduction to Generative AI**
+- Basics of AI and Generative AI
+- Comparison with Traditional AI
+- Traditional machine learning vs. Generative AI
+- Significance and Future of Generative AI
+
+**Class 3-4: Python Basics for Generative AI**
+- Python Installation 
+- Introduction to Python syntax
+- Data types, variables, and operators
+
+**Class 5-6: Control Flow and Functions in Python**
+- Loops, conditionals
+- Function definitions and usage
+
+**Class 7-8: Advanced Python Concepts for Generative AI**
+- List comprehensions, lambda functions
+- File handling, error handling
+
+**Class 9-10: Hands-on with NumPy and Pandas**
+- Practical exercises using NumPy and Pandas for data manipulation and analysis
+
+**Class 11-12: Python miscellaneous**
+- Python Environments
+- Google Colab
+- Github overview
+
+**Class 13-14: Introduction to Generative AI Tools**
+- Overview of Generative AI tools
+- Demo of popular tools
+- Advantages and disadvantages
+
+**Class 15: Current Trends in Generative AI**
+- Review of the latest developments in Generative AI
+- Emerging technologies and applications
+
+**Class 16: Revision and Q&A**
+- Recap of key concepts
+- Question and answer session
