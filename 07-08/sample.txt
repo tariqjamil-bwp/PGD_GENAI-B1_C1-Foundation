@@ -1,0 +1,4 @@
+This is class 7
+Today is Saturday 27 Jan 2024
+Class started at 2pmend of file
+end of file
