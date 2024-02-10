@@ -1,0 +1,5 @@
+ipykernel==6.29.0
+json5==0.9.14
+jupyter==1.0.0
+jupyterlab==4.0.12
+numpy==1.26.3
